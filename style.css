@@ -94,7 +94,7 @@ body {
 /* RIGHT SIDE */
 .hero-image {
     width: 70%;
-    background: url(../images/Image.webp) no-repeat center/cover;
+    background: url(./images/Image.webp) no-repeat center/cover;
 }
 
 
@@ -107,7 +107,7 @@ body {
 /* LEFT IMAGE */
 .feature-image {
     width: 70%;
-    background: url(../images/camera.webp) no-repeat center/cover;
+    background: url(./images/camera.webp) no-repeat center/cover;
 }
 
 /* RIGHT TEXT */
@@ -160,7 +160,7 @@ body {
 /* RIGHT IMAGE */
 .feature-image-reverse {
     width: 70%;
-    background: url(../images/video.webp) no-repeat center/cover;
+    background: url(./images/video.webp) no-repeat center/cover;
 }
 
 /* LEFT TEXT */

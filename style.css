@@ -421,19 +421,6 @@ body {
   gap: 20px;
 }
 
-.invite-btn {
-  background: #131212;
-  color:white;
-  border: none;
-  padding: 12px 20px;
-  font-size: 12px;
-  letter-spacing: 2px;
-  cursor: pointer;
-}
-
-.invite-btn:hover {
-  background: #ddd;
-}
 
 copyright {
   font-size: 12px;
